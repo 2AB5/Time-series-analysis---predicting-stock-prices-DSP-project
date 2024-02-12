@@ -6,7 +6,7 @@ Time series analysis - it is the way of studying the characteristics of the resp
 <br/>The usage of time series models is twofold:
 1.	Obtain an understanding of the underlying forces and structure that produced the observed data
 2.	Fit a model and proceed to forecasting, monitoring or even feedback and feedforward control.
-Time-series analysis (predicting the future values) this is a major part of study in the field of data science and machine learning but here we will see how we can deal with this problem in a [non-conventional](https://towardsdatascience.com/adaptive-filtering-in-stock-market-prediction-2db9ad7ae7f9) approach. Adaptive Filtering.
+Time-series analysis (predicting the future values) this is a major part of study in the field of data science and machine learning but here we will see how we can deal with this problem in a non-conventional approach. i.e. using adaptive filters.
 
 <br/> Adaptive filters – The goal is to estimate a signal y from a signal x. An adaptive filter is an adjustable filter that processes in time x. The output of the filter is the estimator y ̂ of y. The filter is adjusted after each time step to improve the estimation <br/>
 
